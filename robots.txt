@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fofubohujaze.pages.dev/sitemap.xml
